@@ -6,7 +6,7 @@ sitetime: display
 permalink: /about.html
 ---
 
-## #作者
+<!-- ## #作者
 
 你可以通过以下方式联系作者
 
@@ -24,4 +24,4 @@ Github: [link9596](https://github.com/link9596)
 
 ![wechat](https://atlinker.cn/pay/wechat.png)
 
-![pay](https://atlinker.cn/pay/apay.png)
+![pay](https://atlinker.cn/pay/apay.png) -->

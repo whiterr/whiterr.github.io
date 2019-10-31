@@ -354,18 +354,7 @@ a {
   margin-top: 0rem;
   border-top: solid 0px $hr-border-color;
 
-  @include large {
-    font-size: 1rem;
-  }
-
-  @include medium {
-    font-size: 1rem;
-  }
-
-  @include small {
-    font-size: 0.9rem;
-    margin-bottom: 0.5rem;
-  }
+  
 }
 
 .site-footer-owner {

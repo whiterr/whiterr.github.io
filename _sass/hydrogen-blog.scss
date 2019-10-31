@@ -350,11 +350,22 @@ a {
 }
 
 .site-footer {
-  padding-top: 0rem;
-  margin-top: 0rem;
-  border-top: solid 0px $hr-border-color;
+  padding-top: 2rem;
+  margin-top: 2rem;
+  border-top: solid 1px $hr-border-color;
 
-  
+  @include large {
+    font-size: 1rem;
+  }
+
+  @include medium {
+    font-size: 1rem;
+  }
+
+  @include small {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+  }
 }
 
 .site-footer-owner {
@@ -368,7 +379,36 @@ a {
 
 .site-footer {
 
-  
+  @include large {
+  }
+
+  @include medium {
+  }
+
+  @include small {
+  }
+
+  .my-span-icon {
+
+    a {
+    	text-decoration: none;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+
+    @include large {
+      padding: 0px 5px 0px 5px;
+    }
+
+    @include medium {
+      //font-size: 1rem;
+      padding: 0px 10px 10px 10px;
+    }
+
+    @include small {
+      padding: 0px 10px 10px 10px;
+    }
   }
 
   .my-svg-icon {

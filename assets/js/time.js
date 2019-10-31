@@ -1,4 +1,4 @@
-ajax()
+fajax()
   function ajax(option){
     var xhr = null;
     if(window.XMLHttpRequest){

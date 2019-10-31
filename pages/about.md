@@ -6,17 +6,19 @@ sitetime: display
 permalink: /about.html
 ---
 
-<!-- ## #作者
+## #作者
 
 你可以通过以下方式联系作者
 
-QQ: 1316341442
+QQ: 1120815027
 
-Email: <a href="mailto:lk@atlinker.cn">lk@atlinker.cn</a>
+wechat: 17801061612
 
-Github: [link9596](https://github.com/link9596)
+Email: <a href="mailto:xjy110906727697@gmail.com">xjy110906727697@gmail.com</a>
 
-## #捐助我
+Github: [whiterr](https://github.com/whiterr)
+
+<!-- ## #捐助我
 
 本主题使用免费，也是作者长期工作的结晶，如果你喜欢主题\~想支持作者，欢迎给作者捐赠~
 

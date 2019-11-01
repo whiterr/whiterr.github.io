@@ -4,14 +4,7 @@ title: Download
 tagline: 资源下载
 ---
 
-## #电子书：
-
-1.机器学习
-+ [Machine_learning_A_Probabilistic_Perspective](/download/Machine_learning_A_Probabilistic_Perspective.pdf)
-+ [The_Elements_of_Statistical_Learning](/download/The_Elements_of_Statistical_Learning.pdf)
-
-2.深度学习
-+ [花书(深度学习)](/download/花书：深度学习.pdf)
+## #my papers：
 
 
 ## #案例数据和代码：
@@ -22,8 +15,6 @@ tagline: 资源下载
 
 ## #常用工具：
 
-+ [latex简介](/download/latex简介.pdf)
-+ [latex入门](/download/latex入门.pdf)
 + [ssr脚本](/download/ssr.sh)
 + [ShadowsocksR-win](/download/ShadowsocksR-win.rar)
 

@@ -18,6 +18,9 @@ Email: <a href="mailto:xjy110906727697@gmail.com">xjy110906727697@gmail.com</a>
 
 Github: [whiterr](https://github.com/whiterr)
 
+查看实例  [点击下载](/download/花书：深度学习.pdf)
+
+
 <!-- ## #捐助我
 
 本主题使用免费，也是作者长期工作的结晶，如果你喜欢主题\~想支持作者，欢迎给作者捐赠~

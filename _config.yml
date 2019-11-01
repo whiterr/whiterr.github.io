@@ -44,3 +44,4 @@ facebook:
   app_id: null
   #authors: null
 #  admins:
+post_asset_folder: true

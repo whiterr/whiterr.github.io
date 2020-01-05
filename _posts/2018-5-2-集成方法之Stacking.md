@@ -1,7 +1,9 @@
+---
 layout: post
-title: 基于分类算法的宫颈癌疾病诊断
-tags: machine-learing,cervical-cancer-diagnosis,binary-classfication
+title: 集成方法之Stacking
+tags: machine-learing,stacking
 stickie: false
+---
 
 在机器学习中，集成方法是一种将多个学习算法组合在一起以获取更好表现的一种方法。机器学习下的集成方法主要是指有限的模型相互结合，而且可以有很多不同的结构。除了大家比较熟悉的Bagging，Boosting之外，近些年来，Stacking这种集成方法开始在各大机器学习竞赛中崭露头角，并取得了许多不错的成绩。下面我们来一步步的了解一下Stacking这种集成方法。
 

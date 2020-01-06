@@ -24,18 +24,18 @@ Github: [whiterr](https://github.com/whiterr)
 
 如果你喜欢我写的案例\~想支持作者，欢迎给作者捐赠~
 
-<center>扫下方付款二维码</center>
+扫下方付款二维码
 
 <!-- <img style="display:inline-block" src="https://whiterr.github.io/images/wepay.png" width="30%" height="30%"/>
-<img style="display:inline-block" src="https://whiterr.github.io/images/alipay.jpeg" width="30%" height="30%"/> -->
-
+<img style="display:inline-block" src="https://whiterr.github.io/images/alipay.jpeg" width="30%" height="30%"/>
+ -->
 <table>
 <tr>
 <td>
-<a><img src="https://whiterr.github.io/images/wepay.png" width="30%" height="30%"></a>
+<a><img src="https://whiterr.github.io/images/wepay.png" width="70%" height="30%"></a>
 </td>
 <td>
-<a><img src="https://whiterr.github.io/images/alipay.jpeg" width="30%" height="30%"></a>
+<a><img src="https://whiterr.github.io/images/alipay.jpeg" width="70%" height="30%"></a>
 </td>
 </tr>
 </table>

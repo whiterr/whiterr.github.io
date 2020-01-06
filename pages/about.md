@@ -32,10 +32,10 @@ Github: [whiterr](https://github.com/whiterr)
 <table>
 <tr>
 <td>
-<a><img src="https://whiterr.github.io/images/wepay.png" width="70%" height="70%"></a>
+<a><img src="https://whiterr.github.io/images/wepay.png" width="70%" height="30%"></a>
 </td>
 <td>
-<a><img src="https://whiterr.github.io/images/alipay.jpeg" width="70%" height="70%"></a>
+<a><img src="https://whiterr.github.io/images/alipay.jpeg" width="70%" height="30%"></a>
 </td>
 </tr>
 </table>

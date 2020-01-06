@@ -29,12 +29,13 @@ Github: [whiterr](https://github.com/whiterr)
 <!-- <img style="display:inline-block" src="https://whiterr.github.io/images/wepay.png" width="30%" height="30%"/>
 <img style="display:inline-block" src="https://whiterr.github.io/images/alipay.jpeg" width="30%" height="30%"/>
  -->
+
 <table>
 <tr>
-<td>
+<td align="center" valign="middle">
 <a><img src="https://whiterr.github.io/images/wepay.png" width="70%" height="30%" align = "middle"></a>
 </td>
-<td>
+<td align="center" valign="middle">
 <a><img src="https://whiterr.github.io/images/alipay.jpeg" width="70%" height="30%" align = "middle"></a>
 </td>
 </tr>

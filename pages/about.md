@@ -26,5 +26,5 @@ Github: [whiterr](https://github.com/whiterr)
 
 <center>扫下方付款二维码</center>
 
-<img src="https://whiterr.github.io/images/wepay.png" width="50%" height="50%"/>
-<img src="https://whiterr.github.io/images/alipay.jpeg" width="50%" height="50%"/>
+<img src="https://whiterr.github.io/images/wepay.png" width="30%" height="30%"/>
+<img src="https://whiterr.github.io/images/alipay.jpeg" width="30%" height="30%"/>

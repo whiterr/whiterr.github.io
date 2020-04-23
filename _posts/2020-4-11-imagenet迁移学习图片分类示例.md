@@ -23,13 +23,6 @@ plt.imshow(image)
 ```
 
 
-
-
-    <matplotlib.image.AxesImage at 0x7fe884b2acc0>
-
-
-
-
 ![png](https://whiterr.github.io/images/transfer_learning_examples/output_2_1.png)
 
 

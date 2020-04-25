@@ -23,7 +23,7 @@ plt.imshow(image)
 ```
 
 
-![png](.././images/transfer_learning_examples/output_2_1.png)
+![png](../images/transfer_learning_examples/output_2_1.png)
 
 
 
